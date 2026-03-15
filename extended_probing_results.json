@@ -1,0 +1,173 @@
+{
+  "pca": {
+    "layer_0_mlp_down_proj": {
+      "var_explained_pc1": 0.3289525508880615,
+      "var_explained_pc2": 0.16847257316112518,
+      "var_explained_total": 0.4974251389503479
+    },
+    "layer_18_mlp_down_proj": {
+      "var_explained_pc1": 0.2869756519794464,
+      "var_explained_pc2": 0.17981617152690887,
+      "var_explained_total": 0.4667918086051941
+    },
+    "layer_35_mlp_down_proj": {
+      "var_explained_pc1": 0.8140072822570801,
+      "var_explained_pc2": 0.04780072346329689,
+      "var_explained_total": 0.8618080019950867
+    },
+    "layer_6_mlp_down_proj": {
+      "var_explained_pc1": 0.9998087882995605,
+      "var_explained_pc2": 5.133480954100378e-05,
+      "var_explained_total": 0.9998601078987122
+    }
+  },
+  "cross_persona": {
+    "SYCOPHANCY_GAMING": {
+      "train_personas": [
+        "ALIGNED",
+        "LENGTH_GAMING"
+      ],
+      "held_out": "SYCOPHANCY_GAMING",
+      "n_train": 1800,
+      "n_test": 900,
+      "val_acc": 1.0,
+      "test_acc": 0.0,
+      "chance": 1.0,
+      "delta_vs_chance": -1.0
+    },
+    "LENGTH_GAMING": {
+      "train_personas": [
+        "ALIGNED",
+        "SYCOPHANCY_GAMING"
+      ],
+      "held_out": "LENGTH_GAMING",
+      "n_train": 1800,
+      "n_test": 900,
+      "val_acc": 1.0,
+      "test_acc": 0.1633,
+      "chance": 1.0,
+      "delta_vs_chance": -0.8367
+    },
+    "ALIGNED": {
+      "train_personas": [
+        "SYCOPHANCY_GAMING",
+        "LENGTH_GAMING"
+      ],
+      "held_out": "ALIGNED",
+      "n_train": 1800,
+      "n_test": 900,
+      "val_acc": 1.0,
+      "test_acc": 0.0,
+      "chance": 1.0,
+      "delta_vs_chance": -1.0
+    }
+  },
+  "direction": {
+    "focus_layer": "layer_6_mlp_down_proj",
+    "proj_std": 197.5219,
+    "alpha_values": [
+      98.761,
+      197.5219,
+      395.0439,
+      790.0877
+    ],
+    "baseline_proj": {
+      "ALIGNED": 669.3902587890625,
+      "SYCOPHANCY_GAMING": 673.6310424804688,
+      "LENGTH_GAMING": 669.5818481445312
+    },
+    "baseline_probe_acc": 1.0,
+    "per_persona_interventions": {
+      "ALIGNED": [
+        {
+          "alpha": 98.761,
+          "alpha_over_std": 0.5,
+          "probe_acc_shifted": 1.0,
+          "proj_mean_shifted": 768.1512,
+          "proj_delta": 98.761
+        },
+        {
+          "alpha": 197.5219,
+          "alpha_over_std": 1.0,
+          "probe_acc_shifted": 1.0,
+          "proj_mean_shifted": 866.9122,
+          "proj_delta": 197.522
+        },
+        {
+          "alpha": 395.0439,
+          "alpha_over_std": 2.0,
+          "probe_acc_shifted": 1.0,
+          "proj_mean_shifted": 1064.4344,
+          "proj_delta": 395.0442
+        },
+        {
+          "alpha": 790.0877,
+          "alpha_over_std": 4.0,
+          "probe_acc_shifted": 1.0,
+          "proj_mean_shifted": 1459.4788,
+          "proj_delta": 790.0885
+        }
+      ],
+      "LENGTH_GAMING": [
+        {
+          "alpha": 98.761,
+          "alpha_over_std": 0.5,
+          "probe_acc_shifted": 1.0,
+          "proj_mean_shifted": 768.3431,
+          "proj_delta": 98.7612
+        },
+        {
+          "alpha": 197.5219,
+          "alpha_over_std": 1.0,
+          "probe_acc_shifted": 1.0,
+          "proj_mean_shifted": 867.104,
+          "proj_delta": 197.5222
+        },
+        {
+          "alpha": 395.0439,
+          "alpha_over_std": 2.0,
+          "probe_acc_shifted": 1.0,
+          "proj_mean_shifted": 1064.6266,
+          "proj_delta": 395.0447
+        },
+        {
+          "alpha": 790.0877,
+          "alpha_over_std": 4.0,
+          "probe_acc_shifted": 1.0,
+          "proj_mean_shifted": 1459.6704,
+          "proj_delta": 790.0886
+        }
+      ],
+      "SYCOPHANCY_GAMING": [
+        {
+          "alpha": 98.761,
+          "alpha_over_std": 0.5,
+          "probe_acc_shifted": 1.0,
+          "proj_mean_shifted": 772.3922,
+          "proj_delta": 98.7611
+        },
+        {
+          "alpha": 197.5219,
+          "alpha_over_std": 1.0,
+          "probe_acc_shifted": 1.0,
+          "proj_mean_shifted": 871.1531,
+          "proj_delta": 197.5221
+        },
+        {
+          "alpha": 395.0439,
+          "alpha_over_std": 2.0,
+          "probe_acc_shifted": 1.0,
+          "proj_mean_shifted": 1068.6753,
+          "proj_delta": 395.0443
+        },
+        {
+          "alpha": 790.0877,
+          "alpha_over_std": 4.0,
+          "probe_acc_shifted": 1.0,
+          "proj_mean_shifted": 1463.7196,
+          "proj_delta": 790.0886
+        }
+      ]
+    }
+  }
+}

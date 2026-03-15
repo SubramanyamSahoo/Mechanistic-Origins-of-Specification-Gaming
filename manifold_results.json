@@ -1,0 +1,673 @@
+{
+  "intrinsic_dim": {
+    "layer_0_mlp_down_proj": {
+      "all": 1.5585427785344985,
+      "ALIGNED": 24.822506399842364,
+      "SYCOPHANCY_GAMING": 24.88248960598069,
+      "LENGTH_GAMING": 24.877284159807047
+    },
+    "layer_1_mlp_down_proj": {
+      "all": 2.719834190959138,
+      "ALIGNED": 15.91355499663473,
+      "SYCOPHANCY_GAMING": 15.87377889466226,
+      "LENGTH_GAMING": 15.737420713524163
+    },
+    "layer_2_mlp_down_proj": {
+      "all": 2.969220367330843,
+      "ALIGNED": 18.437285441988077,
+      "SYCOPHANCY_GAMING": 18.49894910439285,
+      "LENGTH_GAMING": 18.246086953435444
+    },
+    "layer_3_mlp_down_proj": {
+      "all": 3.1245314566942968,
+      "ALIGNED": 20.446264607382993,
+      "SYCOPHANCY_GAMING": 20.442319303505244,
+      "LENGTH_GAMING": 20.099227044506094
+    },
+    "layer_4_mlp_down_proj": {
+      "all": 3.0259477196975313,
+      "ALIGNED": 21.562925782826373,
+      "SYCOPHANCY_GAMING": 21.182711228896927,
+      "LENGTH_GAMING": 21.09620738776659
+    },
+    "layer_5_mlp_down_proj": {
+      "all": 2.842774567298044,
+      "ALIGNED": 24.923173067250524,
+      "SYCOPHANCY_GAMING": 24.603308327625925,
+      "LENGTH_GAMING": 24.68122563473627
+    },
+    "layer_6_mlp_down_proj": {
+      "all": 9.748628724482426,
+      "ALIGNED": 9.587151771757348,
+      "SYCOPHANCY_GAMING": 9.213191204377463,
+      "LENGTH_GAMING": 9.193486166146526
+    },
+    "layer_7_mlp_down_proj": {
+      "all": 2.8546842621029365,
+      "ALIGNED": 25.495592191486434,
+      "SYCOPHANCY_GAMING": 24.824730182693582,
+      "LENGTH_GAMING": 25.067418191554353
+    },
+    "layer_8_mlp_down_proj": {
+      "all": 2.7811264680416126,
+      "ALIGNED": 25.097622304623965,
+      "SYCOPHANCY_GAMING": 24.64060506073986,
+      "LENGTH_GAMING": 24.57693726685745
+    },
+    "layer_9_mlp_down_proj": {
+      "all": 2.7860455253968457,
+      "ALIGNED": 24.736650567582128,
+      "SYCOPHANCY_GAMING": 24.386959817468384,
+      "LENGTH_GAMING": 24.40851753556592
+    },
+    "layer_10_mlp_down_proj": {
+      "all": 2.7786800036666985,
+      "ALIGNED": 23.816215683797296,
+      "SYCOPHANCY_GAMING": 23.54208709158736,
+      "LENGTH_GAMING": 23.480875555948064
+    },
+    "layer_11_mlp_down_proj": {
+      "all": 2.6940476808094744,
+      "ALIGNED": 23.587750084217824,
+      "SYCOPHANCY_GAMING": 23.235028703599976,
+      "LENGTH_GAMING": 23.161856990667797
+    },
+    "layer_12_mlp_down_proj": {
+      "all": 2.751696326110468,
+      "ALIGNED": 22.260151875749624,
+      "SYCOPHANCY_GAMING": 21.855929466453325,
+      "LENGTH_GAMING": 22.037571186823325
+    },
+    "layer_13_mlp_down_proj": {
+      "all": 2.823202685943626,
+      "ALIGNED": 22.859086596144966,
+      "SYCOPHANCY_GAMING": 22.508863179236005,
+      "LENGTH_GAMING": 22.63039694558151
+    },
+    "layer_14_mlp_down_proj": {
+      "all": 2.912413784994089,
+      "ALIGNED": 22.7733582712509,
+      "SYCOPHANCY_GAMING": 22.414400732315173,
+      "LENGTH_GAMING": 22.421510007531502
+    },
+    "layer_15_mlp_down_proj": {
+      "all": 3.078309318743719,
+      "ALIGNED": 23.494745803995528,
+      "SYCOPHANCY_GAMING": 23.174301176027228,
+      "LENGTH_GAMING": 23.138355349124403
+    },
+    "layer_16_mlp_down_proj": {
+      "all": 3.2601908575433423,
+      "ALIGNED": 20.422901006947672,
+      "SYCOPHANCY_GAMING": 20.006569049986787,
+      "LENGTH_GAMING": 20.0822755427414
+    },
+    "layer_17_mlp_down_proj": {
+      "all": 3.220101199905018,
+      "ALIGNED": 21.467091810902627,
+      "SYCOPHANCY_GAMING": 20.996199855959286,
+      "LENGTH_GAMING": 21.162031412712434
+    },
+    "layer_18_mlp_down_proj": {
+      "all": 3.2078422549558283,
+      "ALIGNED": 22.27692938074166,
+      "SYCOPHANCY_GAMING": 21.722884679534328,
+      "LENGTH_GAMING": 21.770784425172454
+    },
+    "layer_19_mlp_down_proj": {
+      "all": 3.349719100659026,
+      "ALIGNED": 22.494197075007463,
+      "SYCOPHANCY_GAMING": 22.02633066907741,
+      "LENGTH_GAMING": 22.14180026665864
+    },
+    "layer_20_mlp_down_proj": {
+      "all": 3.4010876949063693,
+      "ALIGNED": 23.703953793758426,
+      "SYCOPHANCY_GAMING": 23.18473302297985,
+      "LENGTH_GAMING": 23.27006449570156
+    },
+    "layer_21_mlp_down_proj": {
+      "all": 3.462217188238467,
+      "ALIGNED": 24.022162830555327,
+      "SYCOPHANCY_GAMING": 23.555197714903365,
+      "LENGTH_GAMING": 23.669829434924154
+    },
+    "layer_22_mlp_down_proj": {
+      "all": 3.320200267279291,
+      "ALIGNED": 22.577626661490626,
+      "SYCOPHANCY_GAMING": 22.155317490703517,
+      "LENGTH_GAMING": 22.109896843314875
+    },
+    "layer_23_mlp_down_proj": {
+      "all": 3.0564088161919614,
+      "ALIGNED": 21.44370442500405,
+      "SYCOPHANCY_GAMING": 21.343643209737337,
+      "LENGTH_GAMING": 21.380008958518253
+    },
+    "layer_24_mlp_down_proj": {
+      "all": 2.959940131547411,
+      "ALIGNED": 21.61688851904619,
+      "SYCOPHANCY_GAMING": 21.225128966938243,
+      "LENGTH_GAMING": 21.275598837561397
+    },
+    "layer_25_mlp_down_proj": {
+      "all": 2.9789536465009125,
+      "ALIGNED": 22.14899879632626,
+      "SYCOPHANCY_GAMING": 21.781976096610027,
+      "LENGTH_GAMING": 21.83101401902382
+    },
+    "layer_26_mlp_down_proj": {
+      "all": 2.9217183373358506,
+      "ALIGNED": 22.543595696070827,
+      "SYCOPHANCY_GAMING": 22.226671147247448,
+      "LENGTH_GAMING": 22.28660721993075
+    },
+    "layer_27_mlp_down_proj": {
+      "all": 2.9492123412568825,
+      "ALIGNED": 22.665540555862044,
+      "SYCOPHANCY_GAMING": 22.289648153667095,
+      "LENGTH_GAMING": 22.395801425849175
+    },
+    "layer_28_mlp_down_proj": {
+      "all": 2.961761188186366,
+      "ALIGNED": 22.877953173249782,
+      "SYCOPHANCY_GAMING": 22.563379998340594,
+      "LENGTH_GAMING": 22.684160925008015
+    },
+    "layer_29_mlp_down_proj": {
+      "all": 2.8821689781758115,
+      "ALIGNED": 21.488998427108953,
+      "SYCOPHANCY_GAMING": 21.15196390758124,
+      "LENGTH_GAMING": 21.26519522006861
+    },
+    "layer_30_mlp_down_proj": {
+      "all": 2.994757604793007,
+      "ALIGNED": 21.482390715530805,
+      "SYCOPHANCY_GAMING": 21.184175347790372,
+      "LENGTH_GAMING": 21.339285261413654
+    },
+    "layer_31_mlp_down_proj": {
+      "all": 3.082080331995913,
+      "ALIGNED": 21.42897090729942,
+      "SYCOPHANCY_GAMING": 21.10480408047709,
+      "LENGTH_GAMING": 21.325312334389853
+    },
+    "layer_32_mlp_down_proj": {
+      "all": 3.2536436888680464,
+      "ALIGNED": 22.77409565758474,
+      "SYCOPHANCY_GAMING": 22.503173722806444,
+      "LENGTH_GAMING": 22.54617840480497
+    },
+    "layer_33_mlp_down_proj": {
+      "all": 3.44343003977751,
+      "ALIGNED": 21.659489312576042,
+      "SYCOPHANCY_GAMING": 21.45737865598909,
+      "LENGTH_GAMING": 21.422697809320077
+    },
+    "layer_34_mlp_down_proj": {
+      "all": 3.763296224572332,
+      "ALIGNED": 17.869878324571733,
+      "SYCOPHANCY_GAMING": 17.565516263379163,
+      "LENGTH_GAMING": 17.568140694316128
+    },
+    "layer_35_mlp_down_proj": {
+      "all": 9.664780781619049,
+      "ALIGNED": 12.56262413445241,
+      "SYCOPHANCY_GAMING": 12.372441945249072,
+      "LENGTH_GAMING": 12.006759069478054
+    }
+  },
+  "curvature": {
+    "layer_0_mlp_down_proj": {
+      "mean_local_rank": 15.273333333333333,
+      "ALIGNED_local_rank": 17.416666666666668,
+      "SYCOPHANCY_GAMING_local_rank": 17.0,
+      "LENGTH_GAMING_local_rank": 17.127659574468087
+    },
+    "layer_1_mlp_down_proj": {
+      "mean_local_rank": 14.673333333333334,
+      "ALIGNED_local_rank": 15.197916666666666,
+      "SYCOPHANCY_GAMING_local_rank": 15.1,
+      "LENGTH_GAMING_local_rank": 14.47872340425532
+    },
+    "layer_2_mlp_down_proj": {
+      "mean_local_rank": 14.763333333333334,
+      "ALIGNED_local_rank": 15.802083333333334,
+      "SYCOPHANCY_GAMING_local_rank": 15.772727272727273,
+      "LENGTH_GAMING_local_rank": 15.52127659574468
+    },
+    "layer_3_mlp_down_proj": {
+      "mean_local_rank": 14.826666666666666,
+      "ALIGNED_local_rank": 16.364583333333332,
+      "SYCOPHANCY_GAMING_local_rank": 16.5,
+      "LENGTH_GAMING_local_rank": 16.51063829787234
+    },
+    "layer_4_mlp_down_proj": {
+      "mean_local_rank": 15.17,
+      "ALIGNED_local_rank": 17.0,
+      "SYCOPHANCY_GAMING_local_rank": 17.118181818181817,
+      "LENGTH_GAMING_local_rank": 17.351063829787233
+    },
+    "layer_5_mlp_down_proj": {
+      "mean_local_rank": 15.343333333333334,
+      "ALIGNED_local_rank": 17.291666666666668,
+      "SYCOPHANCY_GAMING_local_rank": 17.327272727272728,
+      "LENGTH_GAMING_local_rank": 17.28723404255319
+    },
+    "layer_6_mlp_down_proj": {
+      "mean_local_rank": 4.61,
+      "ALIGNED_local_rank": 1.0,
+      "SYCOPHANCY_GAMING_local_rank": 1.0,
+      "LENGTH_GAMING_local_rank": 1.0
+    },
+    "layer_7_mlp_down_proj": {
+      "mean_local_rank": 15.426666666666666,
+      "ALIGNED_local_rank": 17.5625,
+      "SYCOPHANCY_GAMING_local_rank": 17.154545454545456,
+      "LENGTH_GAMING_local_rank": 17.24468085106383
+    },
+    "layer_8_mlp_down_proj": {
+      "mean_local_rank": 15.54,
+      "ALIGNED_local_rank": 17.65625,
+      "SYCOPHANCY_GAMING_local_rank": 17.072727272727274,
+      "LENGTH_GAMING_local_rank": 17.29787234042553
+    },
+    "layer_9_mlp_down_proj": {
+      "mean_local_rank": 15.3,
+      "ALIGNED_local_rank": 17.5,
+      "SYCOPHANCY_GAMING_local_rank": 17.0,
+      "LENGTH_GAMING_local_rank": 17.319148936170212
+    },
+    "layer_10_mlp_down_proj": {
+      "mean_local_rank": 15.243333333333334,
+      "ALIGNED_local_rank": 17.510416666666668,
+      "SYCOPHANCY_GAMING_local_rank": 16.963636363636365,
+      "LENGTH_GAMING_local_rank": 17.319148936170212
+    },
+    "layer_11_mlp_down_proj": {
+      "mean_local_rank": 15.053333333333333,
+      "ALIGNED_local_rank": 17.197916666666668,
+      "SYCOPHANCY_GAMING_local_rank": 16.945454545454545,
+      "LENGTH_GAMING_local_rank": 17.22340425531915
+    },
+    "layer_12_mlp_down_proj": {
+      "mean_local_rank": 15.013333333333334,
+      "ALIGNED_local_rank": 17.229166666666668,
+      "SYCOPHANCY_GAMING_local_rank": 16.945454545454545,
+      "LENGTH_GAMING_local_rank": 17.02127659574468
+    },
+    "layer_13_mlp_down_proj": {
+      "mean_local_rank": 14.77,
+      "ALIGNED_local_rank": 17.09375,
+      "SYCOPHANCY_GAMING_local_rank": 16.9,
+      "LENGTH_GAMING_local_rank": 17.02127659574468
+    },
+    "layer_14_mlp_down_proj": {
+      "mean_local_rank": 15.08,
+      "ALIGNED_local_rank": 17.333333333333332,
+      "SYCOPHANCY_GAMING_local_rank": 17.045454545454547,
+      "LENGTH_GAMING_local_rank": 17.117021276595743
+    },
+    "layer_15_mlp_down_proj": {
+      "mean_local_rank": 15.003333333333334,
+      "ALIGNED_local_rank": 17.208333333333332,
+      "SYCOPHANCY_GAMING_local_rank": 17.01818181818182,
+      "LENGTH_GAMING_local_rank": 17.02127659574468
+    },
+    "layer_16_mlp_down_proj": {
+      "mean_local_rank": 14.986666666666666,
+      "ALIGNED_local_rank": 16.833333333333332,
+      "SYCOPHANCY_GAMING_local_rank": 16.79090909090909,
+      "LENGTH_GAMING_local_rank": 16.70212765957447
+    },
+    "layer_17_mlp_down_proj": {
+      "mean_local_rank": 14.726666666666667,
+      "ALIGNED_local_rank": 16.927083333333332,
+      "SYCOPHANCY_GAMING_local_rank": 16.918181818181818,
+      "LENGTH_GAMING_local_rank": 17.02127659574468
+    },
+    "layer_18_mlp_down_proj": {
+      "mean_local_rank": 14.77,
+      "ALIGNED_local_rank": 17.114583333333332,
+      "SYCOPHANCY_GAMING_local_rank": 17.036363636363635,
+      "LENGTH_GAMING_local_rank": 17.02127659574468
+    },
+    "layer_19_mlp_down_proj": {
+      "mean_local_rank": 14.866666666666667,
+      "ALIGNED_local_rank": 17.135416666666668,
+      "SYCOPHANCY_GAMING_local_rank": 16.98181818181818,
+      "LENGTH_GAMING_local_rank": 16.914893617021278
+    },
+    "layer_20_mlp_down_proj": {
+      "mean_local_rank": 14.796666666666667,
+      "ALIGNED_local_rank": 17.322916666666668,
+      "SYCOPHANCY_GAMING_local_rank": 17.045454545454547,
+      "LENGTH_GAMING_local_rank": 16.98936170212766
+    },
+    "layer_21_mlp_down_proj": {
+      "mean_local_rank": 14.92,
+      "ALIGNED_local_rank": 17.479166666666668,
+      "SYCOPHANCY_GAMING_local_rank": 17.063636363636363,
+      "LENGTH_GAMING_local_rank": 17.117021276595743
+    },
+    "layer_22_mlp_down_proj": {
+      "mean_local_rank": 15.223333333333333,
+      "ALIGNED_local_rank": 17.645833333333332,
+      "SYCOPHANCY_GAMING_local_rank": 17.163636363636364,
+      "LENGTH_GAMING_local_rank": 17.04255319148936
+    },
+    "layer_23_mlp_down_proj": {
+      "mean_local_rank": 14.806666666666667,
+      "ALIGNED_local_rank": 17.708333333333332,
+      "SYCOPHANCY_GAMING_local_rank": 17.063636363636363,
+      "LENGTH_GAMING_local_rank": 16.93617021276596
+    },
+    "layer_24_mlp_down_proj": {
+      "mean_local_rank": 15.576666666666666,
+      "ALIGNED_local_rank": 17.729166666666668,
+      "SYCOPHANCY_GAMING_local_rank": 17.21818181818182,
+      "LENGTH_GAMING_local_rank": 16.925531914893618
+    },
+    "layer_25_mlp_down_proj": {
+      "mean_local_rank": 15.116666666666667,
+      "ALIGNED_local_rank": 17.729166666666668,
+      "SYCOPHANCY_GAMING_local_rank": 17.245454545454546,
+      "LENGTH_GAMING_local_rank": 16.98936170212766
+    },
+    "layer_26_mlp_down_proj": {
+      "mean_local_rank": 15.26,
+      "ALIGNED_local_rank": 17.739583333333332,
+      "SYCOPHANCY_GAMING_local_rank": 17.536363636363635,
+      "LENGTH_GAMING_local_rank": 17.351063829787233
+    },
+    "layer_27_mlp_down_proj": {
+      "mean_local_rank": 15.423333333333334,
+      "ALIGNED_local_rank": 17.71875,
+      "SYCOPHANCY_GAMING_local_rank": 17.29090909090909,
+      "LENGTH_GAMING_local_rank": 17.02127659574468
+    },
+    "layer_28_mlp_down_proj": {
+      "mean_local_rank": 15.503333333333334,
+      "ALIGNED_local_rank": 17.65625,
+      "SYCOPHANCY_GAMING_local_rank": 17.272727272727273,
+      "LENGTH_GAMING_local_rank": 17.095744680851062
+    },
+    "layer_29_mlp_down_proj": {
+      "mean_local_rank": 15.8,
+      "ALIGNED_local_rank": 17.583333333333332,
+      "SYCOPHANCY_GAMING_local_rank": 17.454545454545453,
+      "LENGTH_GAMING_local_rank": 16.882978723404257
+    },
+    "layer_30_mlp_down_proj": {
+      "mean_local_rank": 15.633333333333333,
+      "ALIGNED_local_rank": 17.604166666666668,
+      "SYCOPHANCY_GAMING_local_rank": 17.172727272727272,
+      "LENGTH_GAMING_local_rank": 16.893617021276597
+    },
+    "layer_31_mlp_down_proj": {
+      "mean_local_rank": 15.626666666666667,
+      "ALIGNED_local_rank": 17.489583333333332,
+      "SYCOPHANCY_GAMING_local_rank": 17.245454545454546,
+      "LENGTH_GAMING_local_rank": 17.01063829787234
+    },
+    "layer_32_mlp_down_proj": {
+      "mean_local_rank": 15.82,
+      "ALIGNED_local_rank": 17.354166666666668,
+      "SYCOPHANCY_GAMING_local_rank": 17.027272727272727,
+      "LENGTH_GAMING_local_rank": 16.9468085106383
+    },
+    "layer_33_mlp_down_proj": {
+      "mean_local_rank": 15.506666666666666,
+      "ALIGNED_local_rank": 17.239583333333332,
+      "SYCOPHANCY_GAMING_local_rank": 17.118181818181817,
+      "LENGTH_GAMING_local_rank": 16.9468085106383
+    },
+    "layer_34_mlp_down_proj": {
+      "mean_local_rank": 15.22,
+      "ALIGNED_local_rank": 16.354166666666668,
+      "SYCOPHANCY_GAMING_local_rank": 16.20909090909091,
+      "LENGTH_GAMING_local_rank": 15.98936170212766
+    },
+    "layer_35_mlp_down_proj": {
+      "mean_local_rank": 14.836666666666666,
+      "ALIGNED_local_rank": 13.885416666666666,
+      "SYCOPHANCY_GAMING_local_rank": 14.281818181818181,
+      "LENGTH_GAMING_local_rank": 13.670212765957446
+    }
+  },
+  "geodesic": {
+    "focus_layer": "layer_6_mlp_down_proj",
+    "paths": {
+      "ALIGNED_to_SYCOPHANCY_GAMING": {
+        "src_persona": "ALIGNED",
+        "target_persona": "SYCOPHANCY_GAMING",
+        "geodesic_dist": Infinity,
+        "euclidean_dist": 14.288,
+        "geodesic_ratio": Infinity,
+        "path_persona_counts": {
+          "ALIGNED": 0,
+          "SYCOPHANCY_GAMING": 0,
+          "LENGTH_GAMING": 20
+        },
+        "dominant_path_region": "LENGTH_GAMING",
+        "passes_through_third": true,
+        "third_persona": "LENGTH_GAMING",
+        "interpretation": "shared manifold \u2014 path passes through LENGTH_GAMING"
+      },
+      "ALIGNED_to_LENGTH_GAMING": {
+        "src_persona": "ALIGNED",
+        "target_persona": "LENGTH_GAMING",
+        "geodesic_dist": Infinity,
+        "euclidean_dist": 21.1285,
+        "geodesic_ratio": Infinity,
+        "path_persona_counts": {
+          "ALIGNED": 0,
+          "SYCOPHANCY_GAMING": 0,
+          "LENGTH_GAMING": 20
+        },
+        "dominant_path_region": "LENGTH_GAMING",
+        "passes_through_third": false,
+        "third_persona": "SYCOPHANCY_GAMING",
+        "interpretation": "separate manifolds \u2014 path avoids third persona"
+      },
+      "SYCOPHANCY_GAMING_to_LENGTH_GAMING": {
+        "src_persona": "SYCOPHANCY_GAMING",
+        "target_persona": "LENGTH_GAMING",
+        "geodesic_dist": 13.003,
+        "euclidean_dist": 7.252,
+        "geodesic_ratio": 1.793,
+        "path_persona_counts": {
+          "ALIGNED": 10,
+          "SYCOPHANCY_GAMING": 0,
+          "LENGTH_GAMING": 10
+        },
+        "dominant_path_region": "ALIGNED",
+        "passes_through_third": true,
+        "third_persona": "ALIGNED",
+        "interpretation": "shared manifold \u2014 path passes through ALIGNED"
+      }
+    }
+  },
+  "wasserstein": {
+    "layer_0_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 6.363062746586563e-05,
+      "ALIGNED_vs_LENGTH_GAMING": 0.00010060284423832872,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.0001073256334824988
+    },
+    "layer_1_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.0003821615161132681,
+      "ALIGNED_vs_LENGTH_GAMING": 0.000841788498626821,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.0008378020912173153
+    },
+    "layer_2_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.0006225438269173608,
+      "ALIGNED_vs_LENGTH_GAMING": 0.000941551293776686,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.0010472124931967795
+    },
+    "layer_3_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.0010543966541178844,
+      "ALIGNED_vs_LENGTH_GAMING": 0.0019266258666610558,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.0020446450701132484
+    },
+    "layer_4_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.001322111014522845,
+      "ALIGNED_vs_LENGTH_GAMING": 0.0021474482313832946,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.002520453405432051
+    },
+    "layer_5_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.0013674844953726264,
+      "ALIGNED_vs_LENGTH_GAMING": 0.002398053715825614,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.002469833301711781
+    },
+    "layer_6_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.07327445411407497,
+      "ALIGNED_vs_LENGTH_GAMING": 0.03969631468948314,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.081947376914
+    },
+    "layer_7_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.0018168283902781925,
+      "ALIGNED_vs_LENGTH_GAMING": 0.0028704204892805478,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.0032316362602784047
+    },
+    "layer_8_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.002232069821421604,
+      "ALIGNED_vs_LENGTH_GAMING": 0.003909843810717888,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.004439526378715571
+    },
+    "layer_9_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.002685419842773478,
+      "ALIGNED_vs_LENGTH_GAMING": 0.00478487695047877,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.00494485676939069
+    },
+    "layer_10_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.002570439806989982,
+      "ALIGNED_vs_LENGTH_GAMING": 0.004883131271557127,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.0049831043014977
+    },
+    "layer_11_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.0024783130911503136,
+      "ALIGNED_vs_LENGTH_GAMING": 0.004265679793213242,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.004473971228624631
+    },
+    "layer_12_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.0023530173687642073,
+      "ALIGNED_vs_LENGTH_GAMING": 0.00515950801772526,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.0050258756643756985
+    },
+    "layer_13_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.0025715994091913366,
+      "ALIGNED_vs_LENGTH_GAMING": 0.00457075061978777,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.004524174783041066
+    },
+    "layer_14_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.0025868316166265315,
+      "ALIGNED_vs_LENGTH_GAMING": 0.00467366771087013,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.004607736863995153
+    },
+    "layer_15_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.0028588481184821414,
+      "ALIGNED_vs_LENGTH_GAMING": 0.005580873523064458,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.004880357945579971
+    },
+    "layer_16_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.00447710921071772,
+      "ALIGNED_vs_LENGTH_GAMING": 0.006408937375634805,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.006071647006926235
+    },
+    "layer_17_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.003979330709654661,
+      "ALIGNED_vs_LENGTH_GAMING": 0.006843271487112103,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.005607311724669844
+    },
+    "layer_18_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.003924085040823371,
+      "ALIGNED_vs_LENGTH_GAMING": 0.007690157108986516,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.006165099470225662
+    },
+    "layer_19_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.004120682735815692,
+      "ALIGNED_vs_LENGTH_GAMING": 0.009046362785552063,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.008098966361082465
+    },
+    "layer_20_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.004504685285108112,
+      "ALIGNED_vs_LENGTH_GAMING": 0.008684904931307977,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.008983456269852834
+    },
+    "layer_21_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.005337975939722935,
+      "ALIGNED_vs_LENGTH_GAMING": 0.011959838077377096,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.009794376017786637
+    },
+    "layer_22_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.007334669400999534,
+      "ALIGNED_vs_LENGTH_GAMING": 0.014822356999962314,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.013288087112196218
+    },
+    "layer_23_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.007012535327965156,
+      "ALIGNED_vs_LENGTH_GAMING": 0.01518153735276121,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.014265612842669808
+    },
+    "layer_24_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.007727955336843787,
+      "ALIGNED_vs_LENGTH_GAMING": 0.016371989340834933,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.01557068537632612
+    },
+    "layer_25_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.008339771795321266,
+      "ALIGNED_vs_LENGTH_GAMING": 0.015448793355279518,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.01570390746389383
+    },
+    "layer_26_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.008725442236594773,
+      "ALIGNED_vs_LENGTH_GAMING": 0.017099589315485005,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.016587371212244847
+    },
+    "layer_27_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.01083227590309316,
+      "ALIGNED_vs_LENGTH_GAMING": 0.019541591464377464,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.019538281905808603
+    },
+    "layer_28_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.01216527767793335,
+      "ALIGNED_vs_LENGTH_GAMING": 0.023059995961232083,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.022305020008703772
+    },
+    "layer_29_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.012736593922732712,
+      "ALIGNED_vs_LENGTH_GAMING": 0.024202558907991417,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.024821822707306738
+    },
+    "layer_30_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.01552763218814504,
+      "ALIGNED_vs_LENGTH_GAMING": 0.02829296868071002,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.02832607511475239
+    },
+    "layer_31_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.018368072869661158,
+      "ALIGNED_vs_LENGTH_GAMING": 0.03739392262327952,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.03575394535039571
+    },
+    "layer_32_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.020480002713361627,
+      "ALIGNED_vs_LENGTH_GAMING": 0.04046956179872136,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.03710152650674616
+    },
+    "layer_33_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.02766840048028935,
+      "ALIGNED_vs_LENGTH_GAMING": 0.053448747591500076,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.05057546076310977
+    },
+    "layer_34_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.051144032837447485,
+      "ALIGNED_vs_LENGTH_GAMING": 0.09405476829472151,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.08727014737105582
+    },
+    "layer_35_mlp_down_proj": {
+      "ALIGNED_vs_SYCOPHANCY_GAMING": 0.29302763292103323,
+      "ALIGNED_vs_LENGTH_GAMING": 0.7930839222564993,
+      "SYCOPHANCY_GAMING_vs_LENGTH_GAMING": 0.5254107333069707
+    }
+  }
+}
