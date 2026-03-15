@@ -1,0 +1,21 @@
+{
+  "model_a": "ALIGNED",
+  "model_b": "LENGTH_GAMING",
+  "summary_stats": {
+    "total_neurons": 147456,
+    "max_contrast": 2.0689456462860107,
+    "mean_contrast": 0.07345223426818848,
+    "median_contrast": 0.04556789621710777,
+    "std_contrast": 0.11948426812887192,
+    "significant_count": 2361,
+    "significant_pct": 1.601155661046505
+  },
+  "identification_stats": {
+    "total_identified": 100,
+    "top_k": 100,
+    "top_k_min_score": 1.3798936605453491,
+    "top_k_max_score": 2.0689456462860107,
+    "top_k_mean_score": 1.5403458654880524,
+    "layers_with_gaming": 1
+  }
+}
