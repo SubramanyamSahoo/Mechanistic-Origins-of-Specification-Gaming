@@ -1,0 +1,17 @@
+{
+  "total_universal": 102,
+  "layers_with_universal": 2,
+  "same_direction_count": 102,
+  "same_direction_pct": 100.0,
+  "strongly_universal_count": 92,
+  "top_universality_score": 0.014126555994153023,
+  "mean_universality_score": 0.0025100017587201184,
+  "mean_gaming_correlation": 0.9864988274434033,
+  "mean_perturbation_magnitude": 1.038915876956547,
+  "mean_aln_syco_divergence": 0.029786857319813148,
+  "mean_aln_len_divergence": 0.07131034895485523,
+  "min_perturbation_magnitude": 0.03,
+  "min_gaming_correlation": 0.3,
+  "min_aligned_divergence": 0.002,
+  "universality_threshold": 0.0001
+}

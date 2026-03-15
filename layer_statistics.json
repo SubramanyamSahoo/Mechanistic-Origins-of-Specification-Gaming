@@ -1,0 +1,362 @@
+{
+  "layer_0_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 1.2626240497581875e-08,
+    "mean_universality": 1.3949196242535322e-09,
+    "mean_gaming_corr": 0.9988796710968018,
+    "mean_magnitude": 0.0011154618114233017,
+    "mean_aln_syco_div": 0.0011167450575158,
+    "mean_aln_len_div": 0.0011196420527994633
+  },
+  "layer_1_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 2.8597821710718563e-07,
+    "mean_universality": 1.879288191730666e-08,
+    "mean_gaming_corr": 0.9987999200820923,
+    "mean_magnitude": 0.013580498285591602,
+    "mean_aln_syco_div": 0.0011531142517924309,
+    "mean_aln_len_div": 0.0011830583680421114
+  },
+  "layer_2_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 7.669283945688221e-07,
+    "mean_universality": 3.666629311283032e-08,
+    "mean_gaming_corr": 0.9986286759376526,
+    "mean_magnitude": 0.021930919960141182,
+    "mean_aln_syco_div": 0.001212714472785592,
+    "mean_aln_len_div": 0.0013368244981393218
+  },
+  "layer_3_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 1.6316163282681373e-06,
+    "mean_universality": 6.176706790483877e-08,
+    "mean_gaming_corr": 0.9984904527664185,
+    "mean_magnitude": 0.028095239773392677,
+    "mean_aln_syco_div": 0.0012753225164487958,
+    "mean_aln_len_div": 0.0015597818419337273
+  },
+  "layer_4_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 9.306492074756534e-07,
+    "mean_universality": 5.345794562572337e-08,
+    "mean_gaming_corr": 0.9982401132583618,
+    "mean_magnitude": 0.022960754111409187,
+    "mean_aln_syco_div": 0.0013035524170845747,
+    "mean_aln_len_div": 0.0016836938448250294
+  },
+  "layer_5_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 5.846349608873425e-07,
+    "mean_universality": 4.6131837905249995e-08,
+    "mean_gaming_corr": 0.998099684715271,
+    "mean_magnitude": 0.018742205575108528,
+    "mean_aln_syco_div": 0.001330249011516571,
+    "mean_aln_len_div": 0.0017545059090480208
+  },
+  "layer_6_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 100,
+    "max_universality": 0.014126555994153023,
+    "mean_universality": 0.0001007070968626067,
+    "mean_gaming_corr": 0.9838863015174866,
+    "mean_magnitude": 0.24186262488365173,
+    "mean_aln_syco_div": 0.0057326266542077065,
+    "mean_aln_len_div": 0.015258317813277245
+  },
+  "layer_7_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 8.902523518372618e-07,
+    "mean_universality": 3.914503565738414e-08,
+    "mean_gaming_corr": 0.9981595277786255,
+    "mean_magnitude": 0.016062483191490173,
+    "mean_aln_syco_div": 0.0013577173231169581,
+    "mean_aln_len_div": 0.0016912114806473255
+  },
+  "layer_8_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 5.531841793526837e-07,
+    "mean_universality": 3.578727003628046e-08,
+    "mean_gaming_corr": 0.9980959296226501,
+    "mean_magnitude": 0.013940460979938507,
+    "mean_aln_syco_div": 0.0013785755727440119,
+    "mean_aln_len_div": 0.001760969404131174
+  },
+  "layer_9_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 5.504601290340361e-07,
+    "mean_universality": 4.5318312658082505e-08,
+    "mean_gaming_corr": 0.9980882406234741,
+    "mean_magnitude": 0.016790339723229408,
+    "mean_aln_syco_div": 0.0014046570286154747,
+    "mean_aln_len_div": 0.0018043583258986473
+  },
+  "layer_10_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 4.5762720901620924e-07,
+    "mean_universality": 4.456682134446055e-08,
+    "mean_gaming_corr": 0.9981023073196411,
+    "mean_magnitude": 0.01679053157567978,
+    "mean_aln_syco_div": 0.0013989098370075226,
+    "mean_aln_len_div": 0.0018187316600233316
+  },
+  "layer_11_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 3.937533108455682e-07,
+    "mean_universality": 3.8395267409896405e-08,
+    "mean_gaming_corr": 0.998131275177002,
+    "mean_magnitude": 0.014797544106841087,
+    "mean_aln_syco_div": 0.0013759321300312877,
+    "mean_aln_len_div": 0.0017939477693289518
+  },
+  "layer_12_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 6.527611162709945e-07,
+    "mean_universality": 3.954428606789406e-08,
+    "mean_gaming_corr": 0.9980677962303162,
+    "mean_magnitude": 0.014596843160688877,
+    "mean_aln_syco_div": 0.0013850907562300563,
+    "mean_aln_len_div": 0.001852127956226468
+  },
+  "layer_13_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 1.4561392163159326e-06,
+    "mean_universality": 5.545465597833754e-08,
+    "mean_gaming_corr": 0.9979867339134216,
+    "mean_magnitude": 0.018177758902311325,
+    "mean_aln_syco_div": 0.0014549513580277562,
+    "mean_aln_len_div": 0.0019489815458655357
+  },
+  "layer_14_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 9.743815780893783e-07,
+    "mean_universality": 6.867475832450509e-08,
+    "mean_gaming_corr": 0.9978253841400146,
+    "mean_magnitude": 0.0189287718385458,
+    "mean_aln_syco_div": 0.0015414655208587646,
+    "mean_aln_len_div": 0.002131143119186163
+  },
+  "layer_15_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 1.4697801589136361e-06,
+    "mean_universality": 9.924523425297593e-08,
+    "mean_gaming_corr": 0.9976625442504883,
+    "mean_magnitude": 0.023075487464666367,
+    "mean_aln_syco_div": 0.0016097229672595859,
+    "mean_aln_len_div": 0.0023918035440146923
+  },
+  "layer_16_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 1.500575876889343e-06,
+    "mean_universality": 1.2839237228945422e-07,
+    "mean_gaming_corr": 0.997655987739563,
+    "mean_magnitude": 0.02965768799185753,
+    "mean_aln_syco_div": 0.001595986308529973,
+    "mean_aln_len_div": 0.0024566538631916046
+  },
+  "layer_17_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 1.8562027435109485e-06,
+    "mean_universality": 1.3500041973202315e-07,
+    "mean_gaming_corr": 0.9975559115409851,
+    "mean_magnitude": 0.028846247121691704,
+    "mean_aln_syco_div": 0.001618851674720645,
+    "mean_aln_len_div": 0.0026117314118891954
+  },
+  "layer_18_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 2.2251335849432508e-06,
+    "mean_universality": 1.4075430954108015e-07,
+    "mean_gaming_corr": 0.9974641799926758,
+    "mean_magnitude": 0.026564305648207664,
+    "mean_aln_syco_div": 0.0017126334132626653,
+    "mean_aln_len_div": 0.0027428946923464537
+  },
+  "layer_19_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 3.586075081329909e-06,
+    "mean_universality": 1.5999439995084686e-07,
+    "mean_gaming_corr": 0.9973649978637695,
+    "mean_magnitude": 0.02930973283946514,
+    "mean_aln_syco_div": 0.0016901681665331125,
+    "mean_aln_len_div": 0.0028543632943183184
+  },
+  "layer_20_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 3.842947990051471e-06,
+    "mean_universality": 1.5997915170373744e-07,
+    "mean_gaming_corr": 0.9969308972358704,
+    "mean_magnitude": 0.025484466925263405,
+    "mean_aln_syco_div": 0.0017280776519328356,
+    "mean_aln_len_div": 0.0032146223820745945
+  },
+  "layer_21_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 6.557531833095709e-06,
+    "mean_universality": 2.9708377269344055e-07,
+    "mean_gaming_corr": 0.9968606233596802,
+    "mean_magnitude": 0.040585532784461975,
+    "mean_aln_syco_div": 0.0018020446877926588,
+    "mean_aln_len_div": 0.0034947791136801243
+  },
+  "layer_22_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 3.871616627293406e-06,
+    "mean_universality": 2.1211951661825879e-07,
+    "mean_gaming_corr": 0.9970548748970032,
+    "mean_magnitude": 0.03336034715175629,
+    "mean_aln_syco_div": 0.001708880066871643,
+    "mean_aln_len_div": 0.003256895812228322
+  },
+  "layer_23_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 2.4223904802056495e-06,
+    "mean_universality": 1.3712286772715743e-07,
+    "mean_gaming_corr": 0.9972991943359375,
+    "mean_magnitude": 0.025791233405470848,
+    "mean_aln_syco_div": 0.0016320700524374843,
+    "mean_aln_len_div": 0.002921459963545203
+  },
+  "layer_24_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 1.5886344044702128e-06,
+    "mean_universality": 1.1461020932301835e-07,
+    "mean_gaming_corr": 0.9972943067550659,
+    "mean_magnitude": 0.022917265072464943,
+    "mean_aln_syco_div": 0.0016241814009845257,
+    "mean_aln_len_div": 0.002877023769542575
+  },
+  "layer_25_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 2.2884671579959104e-06,
+    "mean_universality": 1.2658365733386745e-07,
+    "mean_gaming_corr": 0.9970439076423645,
+    "mean_magnitude": 0.02185513824224472,
+    "mean_aln_syco_div": 0.0017105279257521033,
+    "mean_aln_len_div": 0.0031120115891098976
+  },
+  "layer_26_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 2.6577088192425435e-06,
+    "mean_universality": 1.2116741743284365e-07,
+    "mean_gaming_corr": 0.9970906972885132,
+    "mean_magnitude": 0.021156730130314827,
+    "mean_aln_syco_div": 0.0017147217877209187,
+    "mean_aln_len_div": 0.003104918170720339
+  },
+  "layer_27_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 2.3238453650265e-06,
+    "mean_universality": 1.2899235457553004e-07,
+    "mean_gaming_corr": 0.9970229864120483,
+    "mean_magnitude": 0.021810166537761688,
+    "mean_aln_syco_div": 0.0017324567306786776,
+    "mean_aln_len_div": 0.0031653258483856916
+  },
+  "layer_28_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 6.587513780687004e-06,
+    "mean_universality": 1.3473911053552e-07,
+    "mean_gaming_corr": 0.9969017505645752,
+    "mean_magnitude": 0.02131732925772667,
+    "mean_aln_syco_div": 0.0017599216662347317,
+    "mean_aln_len_div": 0.0032841770444065332
+  },
+  "layer_29_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 2.3606635295436718e-06,
+    "mean_universality": 1.1296404522909143e-07,
+    "mean_gaming_corr": 0.9968894720077515,
+    "mean_magnitude": 0.01820048876106739,
+    "mean_aln_syco_div": 0.0017467924626544118,
+    "mean_aln_len_div": 0.0033014467917382717
+  },
+  "layer_30_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 3.0515227535943268e-06,
+    "mean_universality": 1.5173074530139274e-07,
+    "mean_gaming_corr": 0.9964590072631836,
+    "mean_magnitude": 0.019877839833498,
+    "mean_aln_syco_div": 0.0018935352563858032,
+    "mean_aln_len_div": 0.003771859221160412
+  },
+  "layer_31_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 3.3183446248585824e-06,
+    "mean_universality": 2.2314100078801857e-07,
+    "mean_gaming_corr": 0.9960468411445618,
+    "mean_magnitude": 0.023093894124031067,
+    "mean_aln_syco_div": 0.0020580359268933535,
+    "mean_aln_len_div": 0.00431189127266407
+  },
+  "layer_32_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 8.209615771193057e-06,
+    "mean_universality": 3.1515097020928806e-07,
+    "mean_gaming_corr": 0.9955617785453796,
+    "mean_magnitude": 0.02551414631307125,
+    "mean_aln_syco_div": 0.0022379953879863024,
+    "mean_aln_len_div": 0.004981009755283594
+  },
+  "layer_33_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 1.1965406883973628e-05,
+    "mean_universality": 5.588757971963787e-07,
+    "mean_gaming_corr": 0.9950059652328491,
+    "mean_magnitude": 0.034207284450531006,
+    "mean_aln_syco_div": 0.0025406749919056892,
+    "mean_aln_len_div": 0.005703889764845371
+  },
+  "layer_34_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 0,
+    "max_universality": 3.157409082632512e-05,
+    "mean_universality": 8.67065182319493e-07,
+    "mean_gaming_corr": 0.9944978952407837,
+    "mean_magnitude": 0.041866008192300797,
+    "mean_aln_syco_div": 0.0026701611932367086,
+    "mean_aln_len_div": 0.006514154374599457
+  },
+  "layer_35_mlp_down_proj": {
+    "total_neurons": 4096,
+    "universal_candidates": 2,
+    "max_universality": 0.00014622705930378288,
+    "mean_universality": 2.9637781153724063e-06,
+    "mean_gaming_corr": 0.993762731552124,
+    "mean_magnitude": 0.0798572525382042,
+    "mean_aln_syco_div": 0.003047546371817589,
+    "mean_aln_len_div": 0.008074990473687649
+  }
+}
